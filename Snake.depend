@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605296867 source:/home/foket/CppProject/Snake/main.cpp
+	<ncurses.h>
+	<string>
+	<cstring>
+	<cstddef>
+	"GameMenu.h"
+
+1605296210 /home/foket/CppProject/Snake/include/GameMenu.h
+	<ncurses.h>
+	<string>
+	<cstddef>
+
+1605296892 source:/home/foket/CppProject/Snake/src/GameMenu.cpp
+	"GameMenu.h"
+	<ncurses.h>
+	<string>
+	<cstring>
+
